@@ -8,9 +8,9 @@ public class Tester {
 
 	@Test
 	public void test() {
-		
-		strNum s = new String();
-		s.Add(str)
+		String str="roi";
+		strNum s = new strNum();
+		 s.Add(str);
 	}
 
 }
