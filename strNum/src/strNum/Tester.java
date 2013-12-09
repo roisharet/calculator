@@ -31,6 +31,14 @@ public class Tester {
 		System.out.println(s.Add(str));
 	}
 	
+	@Test
+	
+	public void calculat3()
+	{
+		String str="1,2";
+		strNum s = new strNum();
+		System.out.println(s.Add(str));
+	}
 	
 }
 
