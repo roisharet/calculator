@@ -30,6 +30,8 @@ public class Tester {
 		strNum s = new strNum();
 		System.out.println(s.Add(str));
 	}
+	
+	
 }
 
 
