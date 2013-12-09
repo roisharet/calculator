@@ -9,9 +9,9 @@ public class strNum
 		for (int i = 0; i < numbers.length() ; i++)
 		{
 			j+=numbers.charAt(i)-48;
-			return j;
+			
 		}
-		
+		return j;
 	}
 
 }
