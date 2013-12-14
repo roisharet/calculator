@@ -40,6 +40,14 @@ public class Tester {
 		System.out.println(s.Add(str));
 	}
 	
+	@Test 
+	
+	public void calculat4()
+	{
+		String str="1,/////...,,mnmnb5";
+		strNum s = new strNum();
+		System.out.println(s.Add(str));
+	}
 }
 
 
