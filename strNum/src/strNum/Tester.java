@@ -44,7 +44,7 @@ public class Tester {
 	
 	public void calculat4()
 	{
-		String str="1,/////...,,mnmnb5";
+		String str="00001,/////...,,mnmnb59";
 		strNum s = new strNum();
 		System.out.println(s.Add(str));
 	}
