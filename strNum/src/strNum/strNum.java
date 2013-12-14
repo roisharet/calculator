@@ -8,6 +8,7 @@ public class strNum
 		int j=0; 
 		for (int i = 0; i < numbers.length() ; i++)
 		{
+			if(numbers.charAt(i)!=',')
 			j+=numbers.charAt(i)-48;
 			
 		}
